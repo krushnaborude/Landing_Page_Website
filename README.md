@@ -1,2 +1,2 @@
-# Landing_Page_Website
-I Developed this Landing Page Website Using HTML,CSS. To see the website visit https://krushnaborude.me/
+# Oasis-Task 1 Landing Page
+I Developed website using HTML,CSS
